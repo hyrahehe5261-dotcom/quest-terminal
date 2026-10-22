@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.log
+questbot.bak*.js
+.DS_Store
