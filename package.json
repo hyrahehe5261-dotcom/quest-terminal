@@ -2,9 +2,10 @@
   "name": "questbot",
   "version": "1.0.0",
   "main": "questbot.js",
-  "scripts": {
-    "start": "node questbot.js"
-  },
+"scripts": {
+  "start": "node questbot.js"
+}
+
   "dependencies": {
     "axios": "^1.20.0",
     "discord.js": "^14.16.3",
